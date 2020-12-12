@@ -1,6 +1,6 @@
-// This is my first program
+// Your First Program
 
-class HelloWorld {
+class HelloWold {
     public static void main(String[] args) {
         System.out.println("Hello, World!"); 
     }
